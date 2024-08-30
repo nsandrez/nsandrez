@@ -7,7 +7,7 @@
   <br />
   Puedes encontrarme en <a href="http://linkedin.com/in/nsandres">LinkedIn</a>.
   <br />
-  Visita mi portafolio: <a href="https://nsandrez.com">nsandrez.com</a>
+  Visita mi portafolio: <a href="https://nsandrez.dev">nsandrez.dev</a>
 </p>
 
 ---
