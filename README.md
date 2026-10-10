@@ -2,7 +2,7 @@
 
 **Software Engineer ·** [nsandres.cl](https://nsandres.cl)
 
-Trabajo como Full Stack Developer. Podés ver mi historia y los proyectos que he realizado en mi [portafolio](https://nsandres.cl).
+Trabajo como Full Stack Developer. Puedes ver mi historia y los proyectos que he realizado en mi [portafolio](https://nsandres.cl).
 
 ---
 
