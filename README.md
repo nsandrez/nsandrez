@@ -4,9 +4,9 @@
 
 ---
 
-### 🛠 &nbsp;Tech Stack
-
 <img src="assets/Night-Coding.gif" align="right" width="250" />
+
+### 🛠 &nbsp;Tech Stack
 
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=white)&nbsp;
