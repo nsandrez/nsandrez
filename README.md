@@ -2,7 +2,7 @@
 
 **Software Engineer ·** [nsandres.cl](https://nsandres.cl)
 
-Full-stack developer working across Laravel, Angular and React, with SQL Server/MySQL on the backend and a growing focus on AI-assisted workflows.
+Trabajo como Full Stack Developer. Podés ver mi historia y los proyectos que he realizado en mi [portafolio](https://nsandres.cl).
 
 ---
 
