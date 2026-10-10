@@ -1,6 +1,4 @@
-<h1 align="left">Nico</h1>
-
-**Software Engineer ·** [nsandres.cl](https://nsandres.cl)
+<h1 align="left">👋</h1>
 
 Trabajo como Full Stack Developer. Puedes ver mi historia y los proyectos que he realizado en mi [portafolio](https://nsandres.cl).
 
