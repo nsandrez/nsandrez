@@ -4,8 +4,6 @@ Trabajo como Full Stack Developer. Puedes ver mi historia y los proyectos que he
 
 ---
 
-<img src="assets/Night-Coding.gif" align="right" width="250" />
-
 #### 🔗 Stack
 
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=white)&nbsp;
